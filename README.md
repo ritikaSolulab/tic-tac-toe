@@ -1,5 +1,5 @@
 
---> Install all the the node modules using command "npm i"
+--> Install all the the node modules using command "npm install"
 
 --> Start the server by command "npm start" or "node server.js 5050"
 
